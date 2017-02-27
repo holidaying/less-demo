@@ -31,8 +31,8 @@
             proxy_set_header    X-Forwarded-For  $proxy_add_x_forwarded_for;
         }
     }
-    ```
-###基本框架
+```
+### 基本框架
 * 1.页面目录
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-1f895de8f743e4ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 2.首页基本情况
