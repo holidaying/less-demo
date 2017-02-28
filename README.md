@@ -1,5 +1,5 @@
 # less-demo
-关于less的一些实践
+关于less的一些实践(![查看demo点这里](https://holidaying.github.io/less-demo/index.html))
 ##客户端安装情况
 * 1.建立index.html
 * 2.下载less.js
